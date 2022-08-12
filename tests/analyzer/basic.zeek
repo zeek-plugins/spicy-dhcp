@@ -7,6 +7,7 @@
 #
 # @TEST-DOC: Test DHCP analyzer with small trace.
 
+
 @load analyzer
 
 # Trigger: DHCP Discover message
